@@ -5,7 +5,7 @@
 
         $scope.check = function(inputText){
             var res = inputText.split(",");
-            conxole.log(res);
+            console.log(res);
         }
     });
 
